@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AleksandraSiwczak a beginner Junior Front-End Developer.
+- 👋 Hi, I’m @AleksandraSiwczak- Junior Front-End Developer.
 - 🌱 I’m currently learning JavaScript, TypeScript,  React, CSS, HTML.
 - 📫 How to reach me: https://www.linkedin.com/in/aleksandra-siwczak/
 
