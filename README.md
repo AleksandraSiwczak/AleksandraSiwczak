@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AleksandraSiwczak- Junior Front-End Developer.
-- 🌱 I’m currently learning JavaScript, TypeScript,  React, CSS, HTML.
+- 👋 Hi, I’m @AleksandraSiwczak- Front-End Developer.
+- 🌱 Currently uses technology at work JavaScript, TypeScript,  React, Node.js, NestJS.
 - 📫 How to reach me: https://www.linkedin.com/in/aleksandra-siwczak/
 
 <!---
